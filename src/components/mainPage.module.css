@@ -1,0 +1,22 @@
+
+.adminNavigator{
+  color: white;
+  width: 15rem;
+  height: 15rem;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  clip-path: circle(50% at 50% 50%);
+  
+}
+.navigatorAjustment{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 4rem;
+}
+.linkNavigator{
+  font-size: 1.3rem;
+font-weight: 1rem;
+}
+
